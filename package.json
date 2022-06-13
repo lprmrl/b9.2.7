@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lprmrl/b9.2.7/issues"
   },
-  "homepage": "https://github.com/lprmrl/b9.2.7#readme"
+  "homepage": "https://github.com/lprmrl/b9.2.7#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {}
 }
